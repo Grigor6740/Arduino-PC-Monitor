@@ -1,0 +1,6 @@
+libraries
+pc_monitor/__pycache__
+pc_monitor/arduino_secrets.h
+pc_monitor/secret_variables.py
+
+
