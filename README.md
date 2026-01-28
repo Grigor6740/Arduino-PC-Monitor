@@ -1,6 +1,6 @@
 # Project Description
 
-Arduino PC Monitor is a real-time system performance dashboard powered by an Arduino R4 WiFi. It allows you to monitor your computer's vital statistics—such as CPU usage, clock speed, RAM and HDD/SSD memory consumption—on an external LCD screen.
+Arduino PC Monitor is a real-time system performance dashboard powered by an Arduino R4 WiFi. It allows you to monitor your computer's vital statistics—such as CPU usage, clock speed, RAM and HDD/SSD memory consumption—on an external LCD screen. I am on laptop and I also added battery percentage.
 
 <img src="./images/Arduino_PC_Monitor.jpg" alt="Arduino_PC_Monitor" width="500" heigth="500" />
 
